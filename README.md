@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-🎨 Passionate about Program Architecture and System Design. 🚀 Interests: Beyond the code, I find joy in shaping user experiences through design.
+🎨 Passionate about Program Architecture and System Design. Beyond the code, I find joy in shaping user experiences through design.
 
 * ✉️  You can contact me at [sanzeeprae@gmail.com](mailto:sanzeeprae@gmail.com)
 * 🧠  I'm learning Database
