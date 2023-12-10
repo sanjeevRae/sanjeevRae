@@ -37,13 +37,3 @@ src="https://img.shields.io/github/followers/sanjeevRae?logo=github&style=for-th
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/sanjeevRae/Bigdeal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevRae&repo=Bigdeal&title_color=ef4444&text_color=f97316&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/san_bayung_rai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/san_bayung_rai"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
