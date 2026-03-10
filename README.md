@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/sanjeevRae?logo=github&style=for-th
 
 <a href="http://www.github.com/sanjeevRae"><img src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=f97316&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="sanjeevRae's GitHub stats" /></a>
 
-<a href="http://www.github.com/sanjeevRae"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevRae&stroke=f97316&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=f97316&currStreakLabel=ef4444&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="http://www.github.com/sanjeevRae"><img src="https://streak-stats.demolab.com/?user=sanjeevRae&stroke=f97316&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=f97316&currStreakLabel=ef4444&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
