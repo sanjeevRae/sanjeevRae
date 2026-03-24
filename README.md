@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-🎨 Creative UI/UX and graphic designer passionate about crafting intuitive designs for websites and apps that enhance user experiences.
+🎨 UI/UX Designer & Software Developer
+Passionate about crafting intuitive user experiences while building scalable web and mobile applications that solve real-world problems.
 
-* ✉️  You can contact me at [sanzeeprae@gmail.com](mailto:sanzeeprae@gmail.com)
-* 🧠  I'm learning Database
-* 🤝  I'm open to collaborating on Game Development, Web Development and .NET Projects.
-* ⚡  Currently navigating the exciting realms of computer science education, I'm on a quest to enhance my skills .
+* ✉️ Contact: sanzeeprae@gmail.com
+* 🧠 Currently Learning: Databases, backend systems, and software architecture
+* 🤝 Open to Collaborate On: Game Development, Web Development, Mobile Apps, and .NET projects
+* ⚡ About Me: A computer science student and Android developer with hands-on experience in full-stack and mobile development. I enjoy combining design and code to create seamless, high-performance digital products while continuously improving my technical and creative skills.
 
 <a href="https://www.github.com/sanjeevRae" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sanjeevRae?logo=github&style=for-the-badge&color=14b8a6&labelColor=ffffff" /></a>
