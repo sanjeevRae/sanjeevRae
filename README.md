@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-🎨 UI/UX Designer & Software Developer
+🎨Software Developer
 Passionate about crafting intuitive user experiences while building scalable web and mobile applications that solve real-world problems.
 
 * ✉️ Contact: sanzeeprae@gmail.com
