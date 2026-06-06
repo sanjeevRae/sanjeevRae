@@ -30,19 +30,19 @@
   <tr>
     <td>🔭 Currently working on</td>
     <td>Full‑stack & Android projects</td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td>🌱 Learning</td>
     <td>Databases, backend architecture, .NET</td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td>🤝 Open to collaborate</td>
     <td>Game Dev, Web Dev, Mobile Apps</td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td>⚡ Fun fact</td>
     <td>I can spend hours refining a UI pixel by pixel.</td>
-  </tr>
+   </tr>
 </table>
 
 ---
@@ -89,12 +89,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevRae&bg_color=0D1117&color=14B8A6&line=14B8A6&point=C9D1D9&area=true&hide_border=true" />
 </p>
 
-<!-- Trophies -->
+<!-- GitHub Profile Summary Cards (replaces unreliable trophies) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjeevRae&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/cards/profile-details?username=sanjeevRae&theme=github_dark" />
 </p>
 
-<!-- Extra Metrics (Lines of code, repositories, etc.) -->
+<!-- Extra Metrics (contribution calendar, etc.) -->
 <p align="center">
   <img src="https://metrics.lecoq.io/sanjeevRae?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&config.timezone=Asia%2FKathmandu" />
 </p>
