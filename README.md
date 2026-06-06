@@ -91,12 +91,6 @@
 
 ---
 
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
 <!-- Footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=100&section=footer" />
