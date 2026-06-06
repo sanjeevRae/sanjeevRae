@@ -78,16 +78,16 @@ Computer Science Student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sanjeevRae">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&hide=issues&count_private=true&title_color=ef4444&text_color=f97316&icon_color=14b8a6&bg_color=ffffff&hide_border=true" alt="sanjeevRae's GitHub stats" />
+<a href="https://github.com/sanjeevRae">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true" alt="GitHub stats" />
 </a>
 
-<a href="http://www.github.com/sanjeevRae">
-  <img src="https://streak-stats.demolab.com/?user=sanjeevRae&stroke=f97316&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=f97316&currStreakLabel=ef4444&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/sanjeevRae">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevRae" alt="GitHub streak" />
 </a>
 
-<b>Top Repositories</b>
+<b>Top Repository</b>
 
 <a href="https://github.com/sanjeevRae/MINA">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevRae&repo=MINA&title_color=ef4444&text_color=f97316&icon_color=14b8a6&bg_color=ffffff&hide_border=true" alt="MINA" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevRae&repo=MINA" alt="MINA" />
 </a>
