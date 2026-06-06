@@ -100,16 +100,6 @@ I love blending **design** with **code** to create seamless digital products.
 
 ---
 
-## 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/sanjeevRae/MINA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevRae&repo=MINA&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -122,8 +112,4 @@ I love blending **design** with **code** to create seamless digital products.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-<p align="center">
-  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
 </p>
