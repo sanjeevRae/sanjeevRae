@@ -28,20 +28,20 @@
 
 <table align="center">
   <tr>
-    <td>🔭 Currently working on</td>
-    <td>Full‑stack & Android projects</td>
+    <td>🔭 Currently working on</th>
+    <td>Full‑stack & Android projects</th>
   </tr>
   <tr>
-    <td>🌱 Learning</td>
-    <td>Databases, backend architecture, .NET</td>
+    <td>🌱 Learning</th>
+    <td>Databases, backend architecture, .NET</th>
   </tr>
   <tr>
-    <td>🤝 Open to collaborate</td>
-    <td>Game Dev, Web Dev, Mobile Apps</td>
+    <td>🤝 Open to collaborate</th>
+    <td>Game Dev, Web Dev, Mobile Apps</th>
   </tr>
   <tr>
-    <td>⚡ Fun fact</td>
-    <td>I can spend hours refining a UI pixel by pixel.</td>
+    <td>⚡ Fun fact</th>
+    <td>I can spend hours refining a UI pixel by pixel.</th>
   </tr>
 </table>
 
@@ -49,7 +49,6 @@
 
 ## 🛠️ Tech Stack
 
-<!-- skillicons.dev is extremely reliable – used by millions -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,kotlin,go,c,cs,php,js" />
 </p>
@@ -67,12 +66,16 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Single comprehensive metrics card – always works, no broken images -->
+<!-- Reliable stats cards – always work, no broken images -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/sanjeevRae?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&config.timezone=Asia%2FKathmandu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9" />
 </p>
 
-<!-- Optional: GitHub streak (herokuapp is more stable than Vercel) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevRae&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=14B8A6&text_color=C9D1D9" />
+</p>
+
+<!-- GitHub streak (stable) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sanjeevRae&theme=dark&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9" />
 </p>
@@ -88,6 +91,7 @@
   <!-- Replace 'yourhandle' with your actual Twitter handle, or remove this line -->
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
 <!-- Footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=100&section=footer" />
