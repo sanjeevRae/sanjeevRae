@@ -43,7 +43,7 @@
     <td>⚡ Fun fact</th>
     <td>I can spend hours refining a UI pixel by pixel.</th>
   </tr>
-<tr>
+</table>
 
 ---
 
@@ -66,21 +66,14 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Three stable services – no Vercel API calls, never fail -->
+<!-- Simple, reliable stats – no Vercel, no 402 errors -->
 
-<!-- 1. Summary cards (shows stats, languages, contributions) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjeevRae&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevRae&theme=dark&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9" />
 </p>
 
-<!-- 2. Trophy / awards (looks great, always works) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjeevRae&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" />
-</p>
-
-<!-- 3. Streak stats (still using Demolab – it's reliable) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjeevRae&theme=dark&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevRae&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=C9D1D9" />
 </p>
 
 ---
