@@ -73,6 +73,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjeevRae&theme=github_dark" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevRae&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=C9D1D9" />
 </p>
 
