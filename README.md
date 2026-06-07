@@ -66,18 +66,17 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Reliable stats cards – always work, no broken images -->
+<!-- Direct URLs – bypass GitHub's camo proxy, always work -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&cache=0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevRae&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=14B8A6&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevRae&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=14B8A6&text_color=C9D1D9&cache=0" />
 </p>
 
-<!-- GitHub streak (stable) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanjeevRae&theme=dark&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9" />
+  <img src="https://streak-stats.demolab.com?user=sanjeevRae&theme=dark&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9" />
 </p>
 
 ---
@@ -88,7 +87,6 @@
   <a href="https://github.com/sanjeevRae"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:sanzeeprae@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sanjeev-rai-b60934258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- Replace 'yourhandle' with your actual Twitter handle, or remove this line -->
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
