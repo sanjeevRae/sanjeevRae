@@ -28,20 +28,20 @@
 
 <table align="center">
   <tr>
-    <td>🔭 Currently working on</th>
-    <td>Full‑stack & Android projects</th>
+    <td>🔭 Currently working on</td>
+    <td>Full‑stack & Android projects</td>
   </tr>
   <tr>
-    <td>🌱 Learning</th>
-    <td>Databases, backend architecture, .NET</th>
+    <td>🌱 Learning</td>
+    <td>Databases, backend architecture, .NET</td>
   </tr>
   <tr>
-    <td>🤝 Open to collaborate</th>
-    <td>Game Dev, Web Dev, Mobile Apps</th>
+    <td>🤝 Open to collaborate</td>
+    <td>Game Dev, Web Dev, Mobile Apps</td>
   </tr>
   <tr>
-    <td>⚡ Fun fact</th>
-    <td>I can spend hours refining a UI pixel by pixel.</th>
+    <td>⚡ Fun fact</td>
+    <td>I can spend hours refining a UI pixel by pixel.</td>
   </tr>
 </table>
 
@@ -66,14 +66,13 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Simple, reliable stats – no Vercel, no 402 errors -->
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevRae&theme=dark&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevRae&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjeevRae&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevRae&theme=dark&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9" />
 </p>
 
 <p align="center">
@@ -88,7 +87,6 @@
   <a href="https://github.com/sanjeevRae"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:sanzeeprae@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sanjeev-rai-b60934258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- Replace 'yourhandle' with your actual Twitter handle -->
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
