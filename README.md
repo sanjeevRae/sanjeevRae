@@ -1,6 +1,6 @@
 <!-- ============================================================ -->
 
-<!--                     TYPING HEADER                            -->
+<!--                       TYPING HEADER                          -->
 
 <!-- ============================================================ -->
 
@@ -13,7 +13,7 @@
 
 <!-- ============================================================ -->
 
-<!--                     PROFILE BADGES                            -->
+<!--                      PROFILE BADGES                           -->
 
 <!-- ============================================================ -->
 
@@ -96,7 +96,7 @@
 
 <!-- ============================================================ -->
 
-<!--                        TECH STACK                            -->
+<!--                         TECH STACK                            -->
 
 <!-- ============================================================ -->
 
@@ -130,7 +130,7 @@
 
 <!-- ============================================================ -->
 
-<!--                     DEVELOPER SNAPSHOT                        -->
+<!--                    DEVELOPER SNAPSHOT                         -->
 
 <!-- ============================================================ -->
 
@@ -159,7 +159,7 @@
 
 <!-- ============================================================ -->
 
-<!--                     GITHUB ANALYTICS                          -->
+<!--                      GITHUB ANALYTICS                         -->
 
 <!-- ============================================================ -->
 
@@ -185,7 +185,7 @@
 
 <!-- ============================================================ -->
 
-<!--                  CONTRIBUTION STREAK                          -->
+<!--                    CONTRIBUTION STREAK                        -->
 
 <!-- ============================================================ -->
 
@@ -203,39 +203,24 @@
 
 <!-- ============================================================ -->
 
-<!--                   CONTRIBUTION SNAKE                          -->
+<!--                    CONTRIBUTION SNAKE                         -->
 
 <!-- ============================================================ -->
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-contribution-grid-snake-dark.svg"
-    />
-
-```
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-```
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
 
 <!-- ============================================================ -->
 
-<!--                     GITHUB TROPHIES                           -->
+<!--                       GITHUB TROPHIES                         -->
 
 <!-- ============================================================ -->
 
@@ -252,65 +237,71 @@
 
 <!-- ============================================================ -->
 
-<!--                    CONTRIBUTION GRAPH                         -->
-
-<!-- ============================================================ -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevRae&custom_title=Sanjeev%20Rai's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=C9D1D9"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
-
-<!-- ============================================================ -->
-
-<!--                    FEATURED PROJECTS                           -->
+<!--                     FEATURED PROJECTS                         -->
 
 <!-- ============================================================ -->
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
 
-  <a href="https://github.com/sanjeevRae/mina-backend">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevRae&repo=mina-backend&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9"
-      alt="Mina Backend"
-    />
-  </a>
+```
+  ### [Mina Backend](https://github.com/sanjeevRae/mina-backend)
 
-  <a href="https://github.com/sanjeevRae/AutoMarket">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevRae&repo=AutoMarket&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9"
-      alt="AutoMarket"
-    />
-  </a>
+  Backend project built for real-world application needs.
 
-</p>
+  <br />
 
-<p align="center">
+  [![Repository](https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sanjeevRae/mina-backend)
 
-  <a href="https://github.com/sanjeevRae/EVOX-SaaS-Platform">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevRae&repo=EVOX-SaaS-Platform&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9"
-      alt="EVOX SaaS Platform"
-    />
-  </a>
+</td>
 
-  <a href="https://github.com/sanjeevRae/automarket-flutter">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevRae&repo=automarket-flutter&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9"
-      alt="AutoMarket Flutter"
-    />
-  </a>
+<td align="center" width="50%">
 
-</p>
+  ### [AutoMarket](https://github.com/sanjeevRae/AutoMarket)
+
+  Marketplace automation and deal-alert project.
+
+  <br />
+
+  [![Repository](https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sanjeevRae/AutoMarket)
+
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+
+```
+  ### [EVOX SaaS Platform](https://github.com/sanjeevRae/EVOX-SaaS-Platform)
+
+  SaaS platform focused on modern application architecture.
+
+  <br />
+
+  [![Repository](https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sanjeevRae/EVOX-SaaS-Platform)
+
+</td>
+
+<td align="center" width="50%">
+
+  ### [AutoMarket Flutter](https://github.com/sanjeevRae/automarket-flutter)
+
+  Flutter mobile application for the AutoMarket ecosystem.
+
+  <br />
+
+  [![Repository](https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117)](https://github.com/sanjeevRae/automarket-flutter)
+
+</td>
+```
+
+  </tr>
+</table>
 
 ---
 
