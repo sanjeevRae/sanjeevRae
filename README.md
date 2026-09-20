@@ -107,28 +107,6 @@
 
 ---
 
-## 🚀 Developer Snapshot
-
-<p align="center">
-
-<img
- src="https://img.shields.io/github/repos/sanjeevRae?style=for-the-badge&logo=github&label=Public%20Repos&color=14B8A6&labelColor=0D1117"
- alt="Public Repositories"
-/>
-
-<img
- src="https://img.shields.io/github/followers/sanjeevRae?style=for-the-badge&logo=github&label=Followers&color=14B8A6&labelColor=0D1117"
- alt="Followers"
-/>
-
-<img
- src="https://komarev.com/ghpvc/?username=sanjeevRae&style=for-the-badge&color=14B8A6&label=Profile+Views"
- alt="Profile Views"
-/>
-
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
