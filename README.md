@@ -139,6 +139,8 @@
     alt="GitHub Statistics"
   />
 
+</p>
+<p align="center">
 <img
  width="49%"
  src="./profile/top-langs.svg"
