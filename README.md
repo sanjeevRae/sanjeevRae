@@ -11,7 +11,7 @@
   />
 </p>
 
-<p >
+<p align="center" >
 
   <a href="https://github.com/sanjeevRae">
     <img
@@ -32,11 +32,13 @@
       alt="Email"
     />
   </a> 
-  
+
+<a href="">
 <img
  src="https://komarev.com/ghpvc/?username=sanjeevRae&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS"
  alt="Profile Views"
 />
+</a>
 
 </p>
 
