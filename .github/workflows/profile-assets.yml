@@ -1,10 +1,10 @@
-name: Generate Profile Assets
+name: Update GitHub Profile Assets
 
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
 
 permissions:
   contents: write
@@ -12,42 +12,74 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
+      # ----------------------------------------------------------
+      # Checkout your profile repository
+      # ----------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
-      # ==========================================================
-      # Generate GitHub Contribution Snake
-      # ==========================================================
+      # ----------------------------------------------------------
+      # Create profile directory
+      # ----------------------------------------------------------
+      - name: Create profile directory
+        run: mkdir -p profile
 
+      # ----------------------------------------------------------
+      # Generate contribution snake
+      # ----------------------------------------------------------
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sanjeevRae
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            profile/github-contribution-grid-snake.svg?palette=github
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # ==========================================================
-      # Generate GitHub Profile Trophies
-      # ==========================================================
-
+      # ----------------------------------------------------------
+      # Generate GitHub trophies
+      # ----------------------------------------------------------
       - name: Generate GitHub trophies
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: sanjeevRae
-          output_path: dist/github-profile-trophy.svg
+          output_path: profile/github-profile-trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: darkhub
 
-      # ==========================================================
-      # Publish generated files to output branch
-      # ==========================================================
-
-      - name: Publish profile assets
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # ----------------------------------------------------------
+      # Generate GitHub stats
+      # ----------------------------------------------------------
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: username=sanjeevRae&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------------------------------------
+      # Generate top languages
+      # ----------------------------------------------------------
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=sanjeevRae&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------------------------------------
+      # Commit generated files
+      # ----------------------------------------------------------
+      - name: Commit profile assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/
+
+          git diff --cached --quiet || git commit -m "Update GitHub profile assets"
+
+          git push
