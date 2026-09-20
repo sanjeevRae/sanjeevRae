@@ -11,25 +11,19 @@
   />
 </p>
 
-<!-- ============================================================ -->
-
-<!--                      PROFILE BADGES                           -->
-
-<!-- ============================================================ -->
-
 <p align="center">
 
   <a href="https://github.com/sanjeevRae">
     <img
       src="https://img.shields.io/github/followers/sanjeevRae?logo=github&style=for-the-badge&color=14B8A6&labelColor=0D1117&label=Followers"
-      alt="GitHub Followers"
+      alt="Followers"
     />
   </a>
 
   <a href="https://github.com/sanjeevRae?tab=repositories">
     <img
       src="https://img.shields.io/github/stars/sanjeevRae?logo=github&style=for-the-badge&color=14B8A6&labelColor=0D1117&label=Stars"
-      alt="GitHub Stars"
+      alt="Stars"
     />
   </a>
 
@@ -49,12 +43,6 @@
 
 ---
 
-<!-- ============================================================ -->
-
-<!--                         ABOUT ME                             -->
-
-<!-- ============================================================ -->
-
 ## 🧑‍💻 About Me
 
 <p align="center">
@@ -72,33 +60,24 @@
 
 <table align="center">
   <tr>
-    <td>🔭 <strong>Currently working on</strong></td>
+    <td><strong>🔭 Currently working on</strong></td>
     <td>Full-stack, AI, automation & Android projects</td>
   </tr>
-
   <tr>
-    <td>🌱 <strong>Currently learning</strong></td>
+    <td><strong>🌱 Currently learning</strong></td>
     <td>Backend architecture, databases, .NET & scalable systems</td>
   </tr>
-
   <tr>
-    <td>🤝 <strong>Open to collaborate</strong></td>
+    <td><strong>🤝 Open to collaborate</strong></td>
     <td>Web development, mobile apps, AI & open-source projects</td>
   </tr>
-
   <tr>
-    <td>⚡ <strong>Fun fact</strong></td>
+    <td><strong>⚡ Fun fact</strong></td>
     <td>I can spend hours refining a UI pixel by pixel.</td>
   </tr>
 </table>
 
 ---
-
-<!-- ============================================================ -->
-
-<!--                         TECH STACK                            -->
-
-<!-- ============================================================ -->
 
 ## 🛠️ Tech Stack
 
@@ -128,12 +107,6 @@
 
 ---
 
-<!-- ============================================================ -->
-
-<!--                    DEVELOPER SNAPSHOT                         -->
-
-<!-- ============================================================ -->
-
 ## 🚀 Developer Snapshot
 
 <p align="center">
@@ -157,37 +130,24 @@
 
 ---
 
-<!-- ============================================================ -->
-
-<!--                      GITHUB ANALYTICS                         -->
-
-<!-- ============================================================ -->
-
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img
+    width="49%"
+    src="./profile/github-stats.svg"
+    alt="GitHub Statistics"
+  />
 
 <img
  width="49%"
- src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
- alt="GitHub Stats"
-/>
-
-<img
- width="49%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevRae&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9"
+ src="./profile/top-langs.svg"
  alt="Top Languages"
 />
 
 </p>
 
 ---
-
-<!-- ============================================================ -->
-
-<!--                    CONTRIBUTION STREAK                        -->
-
-<!-- ============================================================ -->
 
 ## 🔥 Contribution Streak
 
@@ -201,115 +161,38 @@
 
 ---
 
-<!-- ============================================================ -->
-
-<!--                    CONTRIBUTION SNAKE                         -->
-
-<!-- ============================================================ -->
-
 ## 🐍 Contribution Activity
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-contribution-grid-snake.svg"
+    src="./profile/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
 
 ---
 
-<!-- ============================================================ -->
-
-<!--                       GITHUB TROPHIES                         -->
-
-<!-- ============================================================ -->
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-profile-trophy.svg"
+    src="./profile/github-profile-trophy.svg"
     alt="GitHub Profile Trophies"
   />
 </p>
 
 ---
 
-<!-- ============================================================ -->
-
-<!--                     FEATURED PROJECTS                         -->
-
-<!-- ============================================================ -->
-
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-
-```
-  ### [Mina Backend](https://github.com/sanjeevRae/mina-backend)
-
-  Backend project built for real-world application needs.
-
-  <br />
-
-  [![Repository](https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sanjeevRae/mina-backend)
-
-</td>
-
-<td align="center" width="50%">
-
-  ### [AutoMarket](https://github.com/sanjeevRae/AutoMarket)
-
-  Marketplace automation and deal-alert project.
-
-  <br />
-
-  [![Repository](https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sanjeevRae/AutoMarket)
-
-</td>
-```
-
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-
-```
-  ### [EVOX SaaS Platform](https://github.com/sanjeevRae/EVOX-SaaS-Platform)
-
-  SaaS platform focused on modern application architecture.
-
-  <br />
-
-  [![Repository](https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sanjeevRae/EVOX-SaaS-Platform)
-
-</td>
-
-<td align="center" width="50%">
-
-  ### [AutoMarket Flutter](https://github.com/sanjeevRae/automarket-flutter)
-
-  Flutter mobile application for the AutoMarket ecosystem.
-
-  <br />
-
-  [![Repository](https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117)](https://github.com/sanjeevRae/automarket-flutter)
-
-</td>
-```
-
-  </tr>
-</table>
+| Project                | Description                                               |                         Repository                         |
+| :--------------------- | :-------------------------------------------------------- | :--------------------------------------------------------: |
+| **Mina Backend**       | Backend project built for real-world application needs.   |    [View →](https://github.com/sanjeevRae/mina-backend)    |
+| **AutoMarket**         | Marketplace automation and deal-alert project.            |     [View →](https://github.com/sanjeevRae/AutoMarket)     |
+| **EVOX SaaS Platform** | SaaS platform focused on modern application architecture. | [View →](https://github.com/sanjeevRae/EVOX-SaaS-Platform) |
+| **AutoMarket Flutter** | Flutter mobile application for the AutoMarket ecosystem.  | [View →](https://github.com/sanjeevRae/automarket-flutter) |
 
 ---
-
-<!-- ============================================================ -->
-
-<!--                         CONNECT                               -->
-
-<!-- ============================================================ -->
 
 ## 🌐 Let's Connect
 
@@ -339,12 +222,6 @@
 </p>
 
 ---
-
-<!-- ============================================================ -->
-
-<!--                           FOOTER                              -->
-
-<!-- ============================================================ -->
 
 <p align="center">
   <img
