@@ -1,8 +1,8 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                    TYPING ANIMATION HEADER                     -->
+<!--                     TYPING HEADER                            -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
 <p align="center">
   <img
@@ -11,24 +11,33 @@
   />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                         PROFILE BADGES                         -->
+<!--                     PROFILE BADGES                            -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
 <p align="center">
 
   <a href="https://github.com/sanjeevRae">
-    <img src="https://img.shields.io/github/followers/sanjeevRae?logo=github&style=for-the-badge&color=14B8A6&labelColor=0D1117&label=Followers" alt="GitHub Followers" />
+    <img
+      src="https://img.shields.io/github/followers/sanjeevRae?logo=github&style=for-the-badge&color=14B8A6&labelColor=0D1117&label=Followers"
+      alt="GitHub Followers"
+    />
   </a>
 
   <a href="https://github.com/sanjeevRae?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sanjeevRae?logo=github&style=for-the-badge&color=14B8A6&labelColor=0D1117&label=Stars" alt="GitHub Stars" />
+    <img
+      src="https://img.shields.io/github/stars/sanjeevRae?logo=github&style=for-the-badge&color=14B8A6&labelColor=0D1117&label=Stars"
+      alt="GitHub Stars"
+    />
   </a>
 
   <a href="mailto:sanzeeprae@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"
+      alt="Email"
+    />
   </a>
 
 <img
@@ -40,23 +49,25 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                           ABOUT ME                             -->
+<!--                         ABOUT ME                             -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
 ## 🧑‍💻 About Me
 
 <p align="center">
-  🎓 <strong>Computer Science Student</strong> &nbsp;|&nbsp;
-  💻 <strong>Software Developer</strong> &nbsp;|&nbsp;
+  🎓 <strong>Computer Science Student</strong>
+  &nbsp;|&nbsp;
+  💻 <strong>Software Developer</strong>
+  &nbsp;|&nbsp;
   📱 <strong>Android Developer</strong>
 </p>
 
 <p align="center">
   I build <strong>scalable web & mobile applications</strong> that solve real-world problems.<br />
-  I enjoy combining <strong>design, development, automation, and AI</strong> to create useful digital products.
+  I enjoy combining <strong>development, automation, AI, and UI</strong> to create useful digital products.
 </p>
 
 <table align="center">
@@ -64,14 +75,17 @@
     <td>🔭 <strong>Currently working on</strong></td>
     <td>Full-stack, AI, automation & Android projects</td>
   </tr>
+
   <tr>
     <td>🌱 <strong>Currently learning</strong></td>
     <td>Backend architecture, databases, .NET & scalable systems</td>
   </tr>
+
   <tr>
     <td>🤝 <strong>Open to collaborate</strong></td>
     <td>Web development, mobile apps, AI & open-source projects</td>
   </tr>
+
   <tr>
     <td>⚡ <strong>Fun fact</strong></td>
     <td>I can spend hours refining a UI pixel by pixel.</td>
@@ -80,18 +94,18 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                         TECH STACK                             -->
+<!--                        TECH STACK                            -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,go,c,cs,php,js" />
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,go,c,cs,php,js,ts" />
 </p>
 
 ### 🌐 Web & Mobile
@@ -114,11 +128,11 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                      DEVELOPER SNAPSHOT                        -->
+<!--                     DEVELOPER SNAPSHOT                        -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
 ## 🚀 Developer Snapshot
 
@@ -143,20 +157,21 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                       GITHUB ANALYTICS                         -->
+<!--                     GITHUB ANALYTICS                          -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-    alt="GitHub Stats"
-  />
+
+<img
+ width="49%"
+ src="https://github-readme-stats.vercel.app/api?username=sanjeevRae&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+ alt="GitHub Stats"
+/>
 
 <img
  width="49%"
@@ -168,46 +183,96 @@
 
 ---
 
+<!-- ============================================================ -->
+
+<!--                  CONTRIBUTION STREAK                          -->
+
+<!-- ============================================================ -->
+
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img
     width="75%"
     src="https://streak-stats.demolab.com/?user=sanjeevRae&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9"
-    alt="GitHub Streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+<!-- ============================================================ -->
+
+<!--                   CONTRIBUTION SNAKE                          -->
+
+<!-- ============================================================ -->
+
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevRae&custom_title=Sanjeev%20Rai's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=C9D1D9"
-    alt="GitHub Activity Graph"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-contribution-grid-snake-dark.svg"
+    />
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+```
+
+  </picture>
 </p>
 
 ---
+
+<!-- ============================================================ -->
+
+<!--                     GITHUB TROPHIES                           -->
+
+<!-- ============================================================ -->
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=sanjeevRae&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-    alt="GitHub Trophies"
+    src="https://raw.githubusercontent.com/sanjeevRae/sanjeevRae/output/github-profile-trophy.svg"
+    alt="GitHub Profile Trophies"
   />
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                      FEATURED PROJECTS                         -->
+<!--                    CONTRIBUTION GRAPH                         -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevRae&custom_title=Sanjeev%20Rai's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=C9D1D9"
+    width="95%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+<!-- ============================================================ -->
+
+<!--                    FEATURED PROJECTS                           -->
+
+<!-- ============================================================ -->
 
 ## 🚀 Featured Projects
 
@@ -249,37 +314,46 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                         CONNECT                                -->
+<!--                         CONNECT                               -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
 ## 🌐 Let's Connect
 
 <p align="center">
 
   <a href="https://github.com/sanjeevRae">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <a href="mailto:sanzeeprae@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
   <a href="https://linkedin.com/in/sanjeev-rai-b60934258">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                           FOOTER                               -->
+<!--                           FOOTER                              -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
 <p align="center">
   <img
