@@ -27,13 +27,6 @@
     />
   </a>
 
-  <a href="mailto:sanzeeprae@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"
-      alt="Email"
-    />
-  </a>
-
 <img
  src="https://komarev.com/ghpvc/?username=sanjeevRae&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS"
  alt="Profile Views"
