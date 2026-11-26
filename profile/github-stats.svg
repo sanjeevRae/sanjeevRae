@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sanjeev Rai&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 91, Total Commits  : 1274, Total PRs: 3, Total Issues: 14, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 91, Total Commits  : 1282, Total PRs: 3, Total Issues: 14, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 155.5414587860018;
+        stroke-dashoffset: 155.44567582042217;
       }
     }
   
